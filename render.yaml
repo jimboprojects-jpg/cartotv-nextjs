@@ -8,6 +8,8 @@ services:
     startCommand: node .next/standalone/server.js
     cacheDirectories:
       - .next/cache
+      - node_modules
+
     healthCheckPath: /en
     envVars:
       - key: NODE_ENV
