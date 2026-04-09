@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+dist/
+
+# Production build
+build/
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.DS_Store
+*.pem
+.vscode/
+.idea/
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Generated at build time by scripts/fetch-channels.ts
+src/data/channel-registry.json
+
+# Render
+.render-buildpacks.json
+
+# Generated at build time
+src/data/channel-registry.json
