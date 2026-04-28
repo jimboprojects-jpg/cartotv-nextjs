@@ -1,0 +1,222 @@
+{
+  "seo": {
+    "title": "Carto TV - 全球直播电视流媒体",
+    "description": "观看来自179个国家的10,000多个免费电视频道。在交互式3D卫星地球仪上浏览您喜爱的新闻、体育、娱乐节目。"
+  },
+  "common": {
+    "backToGlobe": "返回地球仪",
+    "close": "关闭"
+  },
+  "header": {
+    "tagline": "全球直播流媒体",
+    "countries": "国家",
+    "channels": "频道",
+    "favorites": "收藏",
+    "noFavorites": "暂无收藏"
+  },
+  "menu": {
+    "title": "菜单",
+    "watchByCountry": "按国家观看",
+    "whoWeAre": "关于我们",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "followUs": "Follow Us",
+    "blog": "Blog"
+  },
+  "instructions": {
+    "drag": "拖动旋转",
+    "scroll": "滚动缩放",
+    "click": "点击标记"
+  },
+  "channels": {
+    "loading": "加载中...",
+    "count": "{{filtered}} / {{total}} 个频道",
+    "searchPlaceholder": "搜索频道...",
+    "all": "全部",
+    "noChannels": "未找到频道",
+    "error": "无法加载频道",
+    "shareText": "在Carto TV观看{{name}}！",
+    "linkCopied": "链接已复制！",
+    "linkCopiedDesc": "分享链接已复制到剪贴板。",
+    "addedToFavorites": "已添加到收藏",
+    "removedFromFavorites": "已从收藏移除",
+    "addFavorite": "添加到收藏",
+    "removeFavorite": "从收藏移除",
+    "share": "分享频道",
+    "play": "播放频道"
+  },
+  "about": {
+    "seo": {
+      "title": "关于我们 - Carto TV",
+      "description": "了解Carto TV的使命——为每个人带来免费的全球电视。"
+    },
+    "title": "关于我们",
+    "subtitle": "将世界电视带到您的指尖",
+    "mission": {
+      "title": "我们的使命",
+      "text": "Carto TV致力于提供来自世界各地的免费直播电视频道访问。我们的交互式3D地球仪界面使发现国际内容成为一种引人入胜的沉浸式体验。我们相信全球媒体的访问应该是免费的，对每个人都是可及的。"
+    },
+    "offer": {
+      "title": "我们提供什么",
+      "items": {
+        "channels": "来自179个国家的10,000多个免费电视频道",
+        "globe": "交互式3D卫星地球仪高清导航，适用于任何设备。",
+        "content": "新闻、体育、娱乐、电影的直播流媒体，涵盖动作、恐怖、科幻、犯罪、喜剧等众多类型",
+        "free": "无需注册，无需订阅，永远免费。",
+        "adFree": "无广告观看体验"
+      }
+    },
+    "team": {
+      "title": "由 Geo-Appsmith 打造",
+      "builtBy": "CartoTV 由 Geo-Appsmith 自豪打造——一家位置服务咨询公司，由一支充满热情的 GIS 开发人员和工程师团队驱动，致力于创造真正令人愉悦的工具、应用程序和地理空间系统。",
+      "driven": "我们被好奇心和创新精神驱动——不断突破边界，以创造性的、非常规的方式解决问题。我们热爱理解事物的运作方式，敢于提出棘手的问题，并设计出能产生真正影响的智能解决方案。",
+      "commitment": "在我们的核心价值中，我们特别致力于开发服务于全球弱势社区的地理空间解决方案。我们相信地图和位置智能是促进包容、获取机会的强大工具。",
+      "collaborate": "无论您有地图任务、GIS 项目，还是任何与地图相关的想法——无论大小——我们都很乐意合作。",
+      "contact": "请随时通过 hello@cartotv.com 联系我们，让我们一起探索如何将您的愿景变为现实。"
+    }
+  },
+  "terms": {
+    "seo": {
+      "title": "服务条款 - Carto TV",
+      "description": "阅读Carto TV的服务条款和使用政策。"
+    },
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2025年1月",
+    "sections": {
+      "acceptance": {
+        "title": "1. 条款接受",
+        "text": "通过访问和使用Carto TV，您接受并同意受这些服务条款的约束。如果您不同意这些条款，请不要使用我们的服务。"
+      },
+      "description": {
+        "title": "2. 服务描述",
+        "text": "Carto TV提供一个免费平台，通过交互式3D地球仪界面访问来自世界各地的公开可用直播电视流。"
+      },
+      "content": {
+        "title": "3. 内容免责声明",
+        "text": "通过Carto TV可访问的所有电视流都在互联网上公开可用。我们不控制、不认可，也不对这些流的内容承担责任。"
+      },
+      "conduct": {
+        "title": "4. 用户行为",
+        "intro": "您同意不会：",
+        "items": {
+          "unlawful": "将服务用于任何非法目的",
+          "interfere": "试图干扰或破坏服务",
+          "reproduce": "复制或转售服务的任何部分",
+          "automated": "通过自动化手段或机器人访问服务"
+        }
+      },
+      "ip": {
+        "title": "5. 知识产权",
+        "text": "Carto TV界面、设计和标志是Carto TV的专有财产。电视内容归各自的广播公司所有。"
+      },
+      "liability": {
+        "title": "6. 责任限制",
+        "text": "Carto TV按原样提供，不提供任何形式的保证。"
+      },
+      "changes": {
+        "title": "7. 条款变更",
+        "text": "我们保留随时修改这些条款的权利。"
+      },
+      "contact": {
+        "title": "8. 联系方式",
+        "text": "如对这些条款有疑问，请通过以下方式联系我们"
+      }
+    }
+  },
+  "privacy": {
+    "seo": {
+      "title": "隐私政策 - Carto TV",
+      "description": "了解Carto TV如何保护您的隐私和处理数据。"
+    },
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2025年1月",
+    "sections": {
+      "collect": {
+        "title": "1. 我们收集的信息",
+        "intro": "Carto TV的设计以隐私为本。我们只收集提供服务所需的最少信息：",
+        "usage": { "label": "使用数据", "text": "关于我们服务如何被使用的匿名分析" },
+        "localStorage": { "label": "本地存储", "text": "您的收藏存储在您的浏览器本地" },
+        "technical": { "label": "技术数据", "text": "用于安全目的的标准服务器日志" }
+      },
+      "noAccount": {
+        "title": "2. 无需账户",
+        "text": "Carto TV不需要用户注册。我们不收集个人信息。"
+      },
+      "cookies": {
+        "title": "3. Cookie和跟踪",
+        "intro": "我们使用最少的cookie：",
+        "analytics": "匿名分析（Google Analytics）",
+        "preferences": "本地存储您的偏好设置",
+        "disable": "您可以在浏览器设置中禁用cookie。"
+      },
+      "thirdParty": {
+        "title": "4. 第三方服务",
+        "intro": "我们的服务使用第三方服务：",
+        "google": { "label": "Google Analytics", "text": "用于匿名使用统计" },
+        "coffee": { "label": "Buy Me a Coffee", "text": "用于自愿捐赠" },
+        "streams": { "label": "流媒体提供商", "text": "外部电视流可能有自己的跟踪" }
+      },
+      "security": {
+        "title": "5. 数据安全",
+        "text": "我们实施合理的安全措施来保护我们收集的任何数据。"
+      },
+      "children": {
+        "title": "6. 儿童隐私",
+        "text": "我们的服务不面向13岁以下的儿童。"
+      },
+      "rights": {
+        "title": "7. 您的权利",
+        "text": "由于我们收集的数据很少，通常没有个人数据可供访问或删除。"
+      },
+      "changes": {
+        "title": "8. 隐私政策变更",
+        "text": "我们可能会不时更新本隐私政策。"
+      },
+      "contact": {
+        "title": "9. 联系我们",
+        "text": "如对本隐私政策有疑问，请通过以下方式联系我们"
+      }
+    }
+  },
+  "crawler": {
+    "home": {
+      "streamingTitle": "免费直播电视",
+      "streamingText": "Carto TV提供来自全球179个国家的10,000多个直播电视频道的免费访问。使用我们的交互式3D卫星地球仪浏览频道。观看新闻、体育、娱乐、电影、音乐、儿童内容和纪录片——无需注册或订阅。",
+      "categoriesTitle": "可用分类",
+      "news": "直播新闻频道",
+      "sports": "体育直播",
+      "entertainment": "娱乐与电影",
+      "kids": "少儿与家庭",
+      "music": "音乐频道",
+      "documentary": "纪录片频道"
+    },
+    "about": {
+      "missionText": "Carto TV致力于提供全球直播电视的免费访问。我们创新的3D地球仪界面让您无需注册即可探索和观看179个国家的电视频道。"
+    },
+    "terms": {
+      "text": "这些条款规范您对Carto TV免费直播电视平台的使用。使用我们的服务即表示您同意这些条款。"
+    },
+    "privacy": {
+      "text": "Carto TV致力于保护您的隐私。我们收集最少的数据，不需要注册。了解我们的Cookie政策、数据保护实践和您的权利。"
+    },
+    "nav": {
+      "about": "关于Carto TV",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "home": "首页",
+      "backToGlobe": "返回地球仪"
+    }
+  },
+  "countryPage": {
+    "watchLiveTV": "按国家观看直播电视",
+    "selectCountry": "选择一个国家来浏览频道",
+    "searchCountries": "搜索国家...",
+    "countryNotFound": "未找到国家",
+    "browseAll": "浏览所有国家",
+    "channelCount": "{{filtered}} / {{total}} 个频道",
+    "watchTitle": "免费在线观看{{country}}电视频道",
+    "watchDescription": "在Carto TV上免费观看{{country}}的直播电视。浏览新闻、体育、娱乐等频道 — 无需注册或订阅。只需选择一个频道即可立即开始观看。",
+    "howToWatch": "如何在线观看{{country}}电视",
+    "howToWatchText": "从上方列表中选择任意频道并点击播放。所有流媒体均免费且全球可访问。使用搜索栏查找特定频道或按类别筛选。"
+  }
+}

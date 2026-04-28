@@ -1,0 +1,226 @@
+{
+  "seo": {
+    "title": "Carto TV - Tonton TV Langsung | Streaming Saluran Global di Seluruh Dunia",
+    "description": "Tonton Ribuan saluran TV gratis dari semua negara di dunia. Temukan di globe 3D satelit interaktif Berita, Film, Olahraga, Acara Anak-anak, Hiburan favorit Anda."
+  },
+  "common": {
+    "backToGlobe": "Kembali ke Globe",
+    "close": "Tutup"
+  },
+  "header": {
+    "tagline": "Streaming langsung di seluruh dunia",
+    "countries": "Negara",
+    "channels": "Saluran",
+    "favorites": "Favorit",
+    "noFavorites": "Belum ada favorit"
+  },
+  "menu": {
+    "title": "Menu",
+    "watchByCountry": "Tonton berdasarkan Negara",
+    "whoWeAre": "Tentang Kami",
+    "terms": "Ketentuan Layanan",
+    "privacy": "Kebijakan Privasi",
+    "followUs": "Follow Us",
+    "blog": "Blog"
+  },
+  "instructions": {
+    "drag": "Seret untuk memutar",
+    "scroll": "Gulir untuk zoom",
+    "click": "Klik penanda"
+  },
+  "channels": {
+    "loading": "Memuat...",
+    "count": "{{filtered}} dari {{total}} saluran",
+    "searchPlaceholder": "Cari saluran...",
+    "all": "Semua",
+    "noChannels": "Tidak ada saluran ditemukan",
+    "error": "Tidak dapat memuat saluran",
+    "shareText": "Tonton {{name}} dari {{country}} di Carto TV!",
+    "linkCopied": "Tautan disalin!",
+    "linkCopiedDesc": "Tautan berbagi telah disalin ke clipboard.",
+    "addedToFavorites": "Ditambahkan ke favorit",
+    "removedFromFavorites": "Dihapus dari favorit",
+    "addFavorite": "Tambah ke favorit",
+    "removeFavorite": "Hapus dari favorit",
+    "share": "Bagikan saluran",
+    "play": "Putar saluran"
+  },
+  "about": {
+    "seo": {
+      "title": "Tentang Kami - Carto TV",
+      "description": "Pelajari misi Carto TV untuk membawa televisi global gratis untuk semua orang."
+    },
+    "title": "Tentang Kami",
+    "subtitle": "Membawa televisi dunia ke ujung jari Anda",
+    "mission": {
+      "title": "Misi Kami",
+      "text": "Carto TV didedikasikan untuk menyediakan akses gratis ke saluran televisi langsung dari seluruh dunia. Antarmuka globe 3D interaktif kami membuat penemuan konten internasional menjadi pengalaman yang menarik dan imersif. Kami percaya bahwa akses ke media global harus gratis dan dapat diakses oleh semua orang."
+    },
+    "offer": {
+      "title": "Yang Kami Tawarkan",
+      "items": {
+        "channels": "Lebih dari 10.000 saluran TV gratis dari 179 negara",
+        "globe": "Navigasi globe satelit 3D interaktif dalam HD di perangkat apa pun.",
+        "content": "Streaming langsung Berita, Olahraga, Hiburan, Film dalam genre seperti Aksi, Horor, Sci-Fi, Kriminal, Komedi dan banyak lagi",
+        "free": "Tanpa Pendaftaran, Tanpa Langganan Diperlukan, Selamanya - Sepenuhnya Gratis.",
+        "adFree": "Pengalaman menonton bebas iklan"
+      }
+    },
+    "team": {
+      "title": "Dibangun oleh Geo-Appsmith",
+      "builtBy": "CartoTV dengan bangga dibangun oleh Geo-Appsmith, perusahaan konsultan layanan lokasi yang didukung oleh tim Pengembang dan Insinyur GIS yang berdedikasi dan bersemangat dalam menciptakan alat, aplikasi, dan sistem geospasial yang benar-benar memukau.",
+      "driven": "Kami didorong oleh rasa ingin tahu dan inovasi — terus mendorong batas dan memecahkan masalah dengan cara-cara kreatif dan tidak konvensional. Kami senang memahami cara kerja sesuatu, mengajukan pertanyaan sulit, dan merancang solusi cerdas yang memberikan dampak nyata.",
+      "commitment": "Pada intinya, kami sangat berkomitmen untuk mengembangkan solusi geospasial yang melayani komunitas yang kurang terlayani di seluruh dunia. Kami percaya peta dan kecerdasan lokasi adalah alat yang kuat untuk inklusi, akses, dan peluang.",
+      "collaborate": "Apakah Anda memiliki tugas pemetaan, proyek GIS, atau ide apa pun yang melibatkan peta — besar atau kecil — kami ingin berkolaborasi.",
+      "contact": "Jangan ragu untuk menghubungi kami di hello@cartotv.com dan mari kita jelajahi bagaimana kita dapat bekerja sama untuk mewujudkan visi Anda."
+    }
+  },
+  "terms": {
+    "seo": {
+      "title": "Ketentuan Layanan - Carto TV",
+      "description": "Baca ketentuan layanan dan kebijakan penggunaan Carto TV."
+    },
+    "title": "Ketentuan Layanan",
+    "lastUpdated": "Terakhir diperbarui: Februari 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Penerimaan Ketentuan",
+        "text": "Dengan mengakses dan menggunakan Carto TV (\"Layanan\"), Anda menerima dan setuju untuk terikat oleh Ketentuan Layanan ini. Jika Anda tidak setuju dengan ketentuan ini, mohon jangan gunakan Layanan kami."
+      },
+      "description": {
+        "title": "2. Deskripsi Layanan",
+        "text": "Carto TV menyediakan platform gratis untuk mengakses streaming televisi langsung yang tersedia secara publik dari seluruh dunia melalui antarmuka globe 3D interaktif."
+      },
+      "content": {
+        "title": "3. Penafian Konten",
+        "text": "Semua streaming televisi yang dapat diakses melalui Carto TV tersedia secara publik di internet. Kami tidak mengontrol, mendukung, atau bertanggung jawab atas konten streaming ini."
+      },
+      "conduct": {
+        "title": "4. Perilaku Pengguna",
+        "intro": "Anda setuju untuk tidak:",
+        "items": {
+          "unlawful": "Menggunakan Layanan untuk tujuan yang melanggar hukum",
+          "interfere": "Mencoba mengganggu atau merusak Layanan",
+          "reproduce": "Mereproduksi, menduplikasi, atau menjual kembali bagian mana pun dari Layanan",
+          "automated": "Mengakses Layanan melalui cara otomatis atau bot"
+        }
+      },
+      "ip": {
+        "title": "5. Kekayaan Intelektual",
+        "text": "Antarmuka, desain, dan logo Carto TV adalah milik Carto TV. Konten televisi adalah milik penyiar masing-masing."
+      },
+      "liability": {
+        "title": "6. Batasan Tanggung Jawab",
+        "text": "Carto TV disediakan \"sebagaimana adanya\" tanpa jaminan apa pun."
+      },
+      "changes": {
+        "title": "7. Perubahan Ketentuan",
+        "text": "Kami berhak untuk mengubah Ketentuan ini kapan saja."
+      },
+      "contact": {
+        "title": "8. Kontak",
+        "text": "Untuk pertanyaan tentang Ketentuan ini, silakan hubungi kami di"
+      }
+    }
+  },
+  "privacy": {
+    "seo": {
+      "title": "Kebijakan Privasi - Carto TV",
+      "description": "Pelajari bagaimana Carto TV melindungi privasi Anda dan menangani data."
+    },
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir diperbarui: Januari 2025",
+    "sections": {
+      "collect": {
+        "title": "1. Informasi yang Kami Kumpulkan",
+        "intro": "Carto TV dirancang dengan memperhatikan privasi. Kami mengumpulkan informasi minimal:",
+        "usage": { "label": "Data Penggunaan", "text": "Analitik anonim tentang bagaimana Layanan kami digunakan" },
+        "localStorage": { "label": "Penyimpanan Lokal", "text": "Favorit Anda disimpan secara lokal di browser Anda" },
+        "technical": { "label": "Data Teknis", "text": "Log server standar untuk tujuan keamanan" }
+      },
+      "noAccount": {
+        "title": "2. Tidak Perlu Akun",
+        "text": "Carto TV tidak memerlukan pendaftaran pengguna. Kami tidak mengumpulkan informasi pribadi."
+      },
+      "cookies": {
+        "title": "3. Cookie dan Pelacakan",
+        "intro": "Kami menggunakan cookie minimal untuk:",
+        "analytics": "Analitik anonim (Google Analytics)",
+        "preferences": "Menyimpan preferensi Anda secara lokal",
+        "disable": "Anda dapat menonaktifkan cookie di pengaturan browser Anda."
+      },
+      "thirdParty": {
+        "title": "4. Layanan Pihak Ketiga",
+        "intro": "Layanan kami menggunakan layanan pihak ketiga:",
+        "google": { "label": "Google Analytics", "text": "Untuk statistik penggunaan anonim" },
+        "coffee": { "label": "Buy Me a Coffee", "text": "Untuk donasi sukarela" },
+        "streams": { "label": "Penyedia Streaming", "text": "Streaming TV eksternal mungkin memiliki pelacakan mereka sendiri" }
+      },
+      "security": {
+        "title": "5. Keamanan Data",
+        "text": "Kami menerapkan langkah-langkah keamanan yang wajar untuk melindungi data apa pun yang kami kumpulkan."
+      },
+      "children": {
+        "title": "6. Privasi Anak-anak",
+        "text": "Layanan kami tidak ditujukan untuk anak-anak di bawah 13 tahun."
+      },
+      "rights": {
+        "title": "7. Hak Anda",
+        "text": "Karena kami mengumpulkan data minimal, umumnya tidak ada data pribadi untuk diakses atau dihapus."
+      },
+      "changes": {
+        "title": "8. Perubahan Kebijakan Privasi",
+        "text": "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu."
+      },
+      "contact": {
+        "title": "9. Hubungi Kami",
+        "text": "Untuk pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di"
+      }
+    }
+  },
+  "language": {
+    "select": "Bahasa",
+    "current": "Bahasa Indonesia"
+  },
+  "crawler": {
+    "home": {
+      "streamingTitle": "Streaming TV Langsung Gratis",
+      "streamingText": "Carto TV menawarkan akses gratis ke lebih dari 10.000 saluran televisi langsung dari 179 negara di seluruh dunia. Jelajahi saluran menggunakan globe 3D interaktif kami. Tonton Berita, Olahraga, Hiburan, Film, Musik, Konten Anak-anak, dan Dokumenter — tanpa pendaftaran atau langganan.",
+      "categoriesTitle": "Kategori Tersedia",
+      "news": "Saluran Berita Langsung",
+      "sports": "Streaming Olahraga",
+      "entertainment": "Hiburan & Film",
+      "kids": "Anak-anak & Keluarga",
+      "music": "Saluran Musik",
+      "documentary": "Saluran Dokumenter"
+    },
+    "about": {
+      "missionText": "Carto TV didedikasikan untuk menyediakan akses gratis ke televisi langsung dari seluruh dunia. Globe 3D inovatif kami memungkinkan Anda menjelajahi dan menonton saluran TV dari 179 negara tanpa pendaftaran."
+    },
+    "terms": {
+      "text": "Ketentuan ini mengatur penggunaan Anda atas platform streaming televisi langsung gratis Carto TV. Dengan menggunakan layanan kami, Anda menyetujui ketentuan ini."
+    },
+    "privacy": {
+      "text": "Carto TV berkomitmen untuk melindungi privasi Anda. Kami mengumpulkan data minimal dan tidak memerlukan pendaftaran. Pelajari tentang kebijakan cookie kami, praktik perlindungan data, dan hak Anda."
+    },
+    "nav": {
+      "about": "Tentang Carto TV",
+      "terms": "Ketentuan Layanan",
+      "privacy": "Kebijakan Privasi",
+      "home": "Beranda",
+      "backToGlobe": "Kembali ke Globe"
+    }
+  },
+  "countryPage": {
+    "watchLiveTV": "Tonton TV Langsung per Negara",
+    "selectCountry": "Pilih negara untuk menelusuri saluran",
+    "searchCountries": "Cari negara...",
+    "countryNotFound": "Negara tidak ditemukan",
+    "browseAll": "Telusuri semua negara",
+    "channelCount": "{{filtered}} / {{total}} saluran",
+    "watchTitle": "Tonton Saluran TV {{country}} Gratis Online",
+    "watchDescription": "Streaming televisi langsung dari {{country}} gratis di Carto TV. Telusuri saluran berita, olahraga, hiburan, dan lainnya — tanpa registrasi atau langganan. Cukup pilih saluran dan mulai menonton langsung.",
+    "howToWatch": "Cara Menonton TV {{country}} Online",
+    "howToWatchText": "Pilih saluran mana saja dari daftar di atas dan klik putar. Semua streaming gratis dan dapat diakses di seluruh dunia. Gunakan bilah pencarian untuk menemukan saluran tertentu atau filter berdasarkan kategori."
+  }
+}

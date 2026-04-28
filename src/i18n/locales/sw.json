@@ -1,0 +1,226 @@
+{
+  "seo": {
+    "title": "Carto TV - Tazama TV ya Moja kwa Moja | Tiririsha Chaneli za Kimataifa Duniani Kote",
+    "description": "Tazama Maelfu ya chaneli za TV bure kutoka nchi zote ulimwenguni. Gundua kwenye globu ya 3D ya satelaiti inayoingiliana Habari, Filamu, Michezo, Vipindi vya Watoto, Burudani unayoipenda."
+  },
+  "common": {
+    "backToGlobe": "Rudi kwenye Globu",
+    "close": "Funga"
+  },
+  "header": {
+    "tagline": "Matangazo ya moja kwa moja duniani",
+    "countries": "Nchi",
+    "channels": "Chaneli",
+    "favorites": "Vipendwa",
+    "noFavorites": "Hakuna vipendwa bado"
+  },
+  "menu": {
+    "title": "Menyu",
+    "watchByCountry": "Tazama kwa Nchi",
+    "whoWeAre": "Sisi ni Nani",
+    "terms": "Masharti ya Huduma",
+    "privacy": "Sera ya Faragha",
+    "followUs": "Follow Us",
+    "blog": "Blog"
+  },
+  "instructions": {
+    "drag": "Buruta kuzungusha",
+    "scroll": "Sogeza kukuza",
+    "click": "Bofya alama"
+  },
+  "channels": {
+    "loading": "Inapakia...",
+    "count": "{{filtered}} kati ya {{total}} chaneli",
+    "searchPlaceholder": "Tafuta chaneli...",
+    "all": "Zote",
+    "noChannels": "Hakuna chaneli zilizopatikana",
+    "error": "Haiwezekani kupakia chaneli",
+    "shareText": "Tazama {{name}} kutoka {{country}} kwenye Carto TV!",
+    "linkCopied": "Kiungo kimenakiliwa!",
+    "linkCopiedDesc": "Kiungo cha kushiriki kimenakiliwa kwenye ubao wa kunakili.",
+    "addedToFavorites": "Imeongezwa kwenye vipendwa",
+    "removedFromFavorites": "Imeondolewa kwenye vipendwa",
+    "addFavorite": "Ongeza kwenye vipendwa",
+    "removeFavorite": "Ondoa kwenye vipendwa",
+    "share": "Shiriki chaneli",
+    "play": "Cheza chaneli"
+  },
+  "about": {
+    "seo": {
+      "title": "Sisi ni Nani - Carto TV",
+      "description": "Jifunze kuhusu dhamira ya Carto TV ya kuleta televisheni ya bure ya kimataifa kwa kila mtu."
+    },
+    "title": "Sisi ni Nani",
+    "subtitle": "Kuleta televisheni ya ulimwengu mikononi mwako",
+    "mission": {
+      "title": "Dhamira Yetu",
+      "text": "Carto TV imejitolea kutoa ufikiaji wa bure kwa chaneli za televisheni za moja kwa moja kutoka duniani kote. Kiolesura chetu cha globu ya 3D inayoingiliana kinafanya ugunduzi wa maudhui ya kimataifa kuwa uzoefu wa kuvutia na wa kuzama. Tunaamini kwamba ufikiaji wa vyombo vya habari vya kimataifa unapaswa kuwa bure na kupatikana kwa kila mtu."
+    },
+    "offer": {
+      "title": "Tunachotoa",
+      "items": {
+        "channels": "Zaidi ya chaneli 10,000 za TV bure kutoka nchi 179",
+        "globe": "Urambazaji wa globu ya satelaiti ya 3D inayoingiliana kwa HD kwenye kifaa chochote.",
+        "content": "Utiririshaji wa moja kwa moja wa Habari, Michezo, Burudani, Filamu katika aina kama Action, Horor, Sayansi-Kubuni, Uhalifu, Vichekesho na mengi zaidi",
+        "free": "Hakuna Usajili, Hakuna Usajili Unaohitajika, Kamwe - Bure Kabisa.",
+        "adFree": "Uzoefu wa kutazama bila matangazo"
+      }
+    },
+    "team": {
+      "title": "Imejengwa na Geo-Appsmith",
+      "builtBy": "CartoTV imejengwa kwa fahari na Geo-Appsmith, kampuni ya ushauri wa huduma za eneo inayoendeshwa na timu iliyojitolea ya Watengenezaji na Wahandisi wa GIS wenye shauku ya kuunda zana, programu, na mifumo ya jiografia ambayo kweli inafurahisha.",
+      "driven": "Tunaendeshwa na udadisi na ubunifu — tukisukuma mipaka kila wakati na kutatua matatizo kwa njia za ubunifu na zisizo za kawaida. Tunapenda kuelewa jinsi mambo yanavyofanya kazi, kuuliza maswali magumu, na kubuni masuluhisho ya busara yanayoleta athari ya kweli.",
+      "commitment": "Katika msingi wetu, tumejitolea hasa kuendeleza masuluhisho ya jiografia yanayohudumia jamii zilizopuuzwa duniani kote. Tunaamini ramani na akili ya mahali ni zana zenye nguvu za ujumuishaji, upatikanaji, na fursa.",
+      "collaborate": "Iwe una kazi ya ramani, mradi wa GIS, au wazo lolote linalohusu ramani — kubwa au ndogo — tungependa kushirikiana.",
+      "contact": "Jisikie huru kuwasiliana nasi kwa hello@cartotv.com na hebu tuchunguze jinsi tunavyoweza kufanya kazi pamoja kuleta maono yako hai."
+    }
+  },
+  "terms": {
+    "seo": {
+      "title": "Masharti ya Huduma - Carto TV",
+      "description": "Soma masharti ya huduma na sera za matumizi ya Carto TV."
+    },
+    "title": "Masharti ya Huduma",
+    "lastUpdated": "Ilisasishwa mwisho: Februari 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Kukubali Masharti",
+        "text": "Kwa kufikia na kutumia Carto TV (\"Huduma\"), unakubali na kukubaliana kufungwa na Masharti haya ya Huduma. Ikiwa hukubaliani na masharti haya, tafadhali usitumie Huduma yetu."
+      },
+      "description": {
+        "title": "2. Maelezo ya Huduma",
+        "text": "Carto TV inatoa jukwaa la bure la kufikia mikondo ya televisheni ya moja kwa moja inayopatikana kwa umma kutoka duniani kote kupitia kiolesura cha globu ya 3D inayoingiliana."
+      },
+      "content": {
+        "title": "3. Kanusho la Maudhui",
+        "text": "Mikondo yote ya televisheni inayopatikana kupitia Carto TV inapatikana kwa umma kwenye mtandao. Hatudhibiti, hatuidhinishi, wala hatuchukui jukumu la maudhui ya mikondo hii."
+      },
+      "conduct": {
+        "title": "4. Mwenendo wa Mtumiaji",
+        "intro": "Unakubali kutofanya:",
+        "items": {
+          "unlawful": "Kutumia Huduma kwa madhumuni yoyote yasiyokuwa halali",
+          "interfere": "Kujaribu kuingilia au kusumbua Huduma",
+          "reproduce": "Kunakili, kurudia au kuuza tena sehemu yoyote ya Huduma",
+          "automated": "Kufikia Huduma kupitia njia za kiotomatiki au boti"
+        }
+      },
+      "ip": {
+        "title": "5. Haki za Mali ya Kiakili",
+        "text": "Kiolesura, muundo na nembo ya Carto TV ni mali ya Carto TV. Maudhui ya televisheni ni mali ya watangazaji husika."
+      },
+      "liability": {
+        "title": "6. Kikomo cha Dhima",
+        "text": "Carto TV inatolewa \"kama ilivyo\" bila dhamana za aina yoyote."
+      },
+      "changes": {
+        "title": "7. Mabadiliko ya Masharti",
+        "text": "Tunahifadhi haki ya kubadilisha Masharti haya wakati wowote."
+      },
+      "contact": {
+        "title": "8. Wasiliana Nasi",
+        "text": "Kwa maswali kuhusu Masharti haya, tafadhali wasiliana nasi kupitia"
+      }
+    }
+  },
+  "privacy": {
+    "seo": {
+      "title": "Sera ya Faragha - Carto TV",
+      "description": "Jifunze jinsi Carto TV inavyolinda faragha yako na kushughulikia data."
+    },
+    "title": "Sera ya Faragha",
+    "lastUpdated": "Ilisasishwa mwisho: Januari 2025",
+    "sections": {
+      "collect": {
+        "title": "1. Taarifa Tunazokusanya",
+        "intro": "Carto TV imeundwa kwa kuzingatia faragha. Tunakusanya taarifa ndogo:",
+        "usage": { "label": "Data ya Matumizi", "text": "Uchanganuzi usio na utambulisho kuhusu jinsi Huduma yetu inavyotumika" },
+        "localStorage": { "label": "Hifadhi ya Ndani", "text": "Vipendwa vyako vinahifadhiwa ndani ya kivinjari chako" },
+        "technical": { "label": "Data ya Kiufundi", "text": "Kumbukumbu za kawaida za seva kwa madhumuni ya usalama" }
+      },
+      "noAccount": {
+        "title": "2. Hakuna Akaunti Inayohitajika",
+        "text": "Carto TV haihitaji usajili wa mtumiaji. Hatukusanyi taarifa za kibinafsi."
+      },
+      "cookies": {
+        "title": "3. Vidakuzi na Ufuatiliaji",
+        "intro": "Tunatumia vidakuzi vichache kwa:",
+        "analytics": "Uchanganuzi usio na utambulisho (Google Analytics)",
+        "preferences": "Kuhifadhi mapendeleo yako ndani ya kivinjari chako",
+        "disable": "Unaweza kuzima vidakuzi katika mipangilio ya kivinjari chako."
+      },
+      "thirdParty": {
+        "title": "4. Huduma za Wahusika Wengine",
+        "intro": "Huduma yetu inatumia huduma za wahusika wengine:",
+        "google": { "label": "Google Analytics", "text": "Kwa takwimu za matumizi zisizo na utambulisho" },
+        "coffee": { "label": "Buy Me a Coffee", "text": "Kwa michango ya hiari" },
+        "streams": { "label": "Watoa Mikondo", "text": "Mikondo ya TV ya nje inaweza kuwa na ufuatiliaji wao wenyewe" }
+      },
+      "security": {
+        "title": "5. Usalama wa Data",
+        "text": "Tunatekeleza hatua za usalama zinazofaa kulinda data yoyote tunayokusanya."
+      },
+      "children": {
+        "title": "6. Faragha ya Watoto",
+        "text": "Huduma yetu haieleweki kwa watoto chini ya umri wa miaka 13."
+      },
+      "rights": {
+        "title": "7. Haki Zako",
+        "text": "Kwa kuwa tunakusanya data ndogo, kwa ujumla hakuna data za kibinafsi za kufikia au kufuta."
+      },
+      "changes": {
+        "title": "8. Mabadiliko ya Sera ya Faragha",
+        "text": "Tunaweza kusasisha Sera hii ya Faragha mara kwa mara."
+      },
+      "contact": {
+        "title": "9. Wasiliana Nasi",
+        "text": "Kwa maswali kuhusu Sera hii ya Faragha, tafadhali wasiliana nasi kupitia"
+      }
+    }
+  },
+  "language": {
+    "select": "Lugha",
+    "current": "Kiswahili"
+  },
+  "crawler": {
+    "home": {
+      "streamingTitle": "TV ya Moja kwa Moja Bure",
+      "streamingText": "Carto TV inatoa ufikiaji wa bure kwa zaidi ya chaneli 10,000 za televisheni ya moja kwa moja kutoka nchi 179 duniani kote. Vinjari chaneli kwa kutumia globu yetu ya 3D inayoingiliana. Tazama Habari, Michezo, Burudani, Filamu, Muziki, Maudhui ya Watoto na Makala — bila usajili au malipo.",
+      "categoriesTitle": "Kategoria Zinazopatikana",
+      "news": "Chaneli za Habari za Moja kwa Moja",
+      "sports": "Matangazo ya Michezo",
+      "entertainment": "Burudani na Filamu",
+      "kids": "Watoto na Familia",
+      "music": "Chaneli za Muziki",
+      "documentary": "Chaneli za Makala"
+    },
+    "about": {
+      "missionText": "Carto TV imejitolea kutoa ufikiaji wa bure kwa televisheni ya moja kwa moja kutoka duniani kote. Globu yetu ya 3D ya ubunifu inakuwezesha kuchunguza na kutazama chaneli za TV kutoka nchi 179 bila usajili."
+    },
+    "terms": {
+      "text": "Masharti haya yanasimamia matumizi yako ya jukwaa la Carto TV la utiririshaji wa televisheni ya moja kwa moja bure. Kwa kutumia huduma yetu, unakubali masharti haya."
+    },
+    "privacy": {
+      "text": "Carto TV imejitolea kulinda faragha yako. Tunakusanya data ndogo na hatuhitaji usajili. Jifunze kuhusu sera yetu ya vidakuzi, mazoea ya ulinzi wa data na haki zako."
+    },
+    "nav": {
+      "about": "Kuhusu Carto TV",
+      "terms": "Masharti ya Huduma",
+      "privacy": "Sera ya Faragha",
+      "home": "Nyumbani",
+      "backToGlobe": "Rudi kwenye Globu"
+    }
+  },
+  "countryPage": {
+    "watchLiveTV": "Tazama TV ya Moja kwa Moja kwa Nchi",
+    "selectCountry": "Chagua nchi kutafuta chaneli",
+    "searchCountries": "Tafuta nchi...",
+    "countryNotFound": "Nchi haijapatikana",
+    "browseAll": "Vinjari nchi zote",
+    "channelCount": "{{filtered}} / {{total}} chaneli",
+    "watchTitle": "Tazama Chaneli za TV za {{country}} Bure Mtandaoni",
+    "watchDescription": "Tiririsha televisheni ya moja kwa moja kutoka {{country}} bure kwenye Carto TV. Vinjari chaneli za habari, michezo, burudani na zaidi — bila usajili au malipo. Chagua tu chaneli na uanze kutazama mara moja.",
+    "howToWatch": "Jinsi ya Kutazama TV ya {{country}} Mtandaoni",
+    "howToWatchText": "Chagua chaneli yoyote kutoka orodha hapo juu na ubofye kucheza. Mikondo yote ni bure na inapatikana duniani kote. Tumia upau wa utaftaji kupata chaneli maalum au chuja kwa kategoria."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "seo": {
+    "title": "Carto TV - Télévision en Direct dans le Monde Entier",
+    "description": "Regardez plus de 10 000 chaînes TV gratuites de 179 pays. Parcourez sur un globe 3D interactif vos Actualités, Sports et Divertissements préférés."
+  },
+  "common": {
+    "backToGlobe": "Retour au Globe",
+    "close": "Fermer"
+  },
+  "header": {
+    "tagline": "Diffusion en direct mondiale",
+    "countries": "Pays",
+    "channels": "Chaînes",
+    "favorites": "Favoris",
+    "noFavorites": "Pas encore de favoris"
+  },
+  "menu": {
+    "title": "Menu",
+    "watchByCountry": "Regarder par Pays",
+    "whoWeAre": "Qui Sommes-Nous",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "followUs": "Follow Us",
+    "blog": "Blog"
+  },
+  "instructions": {
+    "drag": "Glissez pour tourner",
+    "scroll": "Défilez pour zoomer",
+    "click": "Cliquez sur le marqueur"
+  },
+  "channels": {
+    "loading": "Chargement...",
+    "count": "{{filtered}} sur {{total}} chaînes",
+    "searchPlaceholder": "Rechercher des chaînes...",
+    "all": "Toutes",
+    "noChannels": "Aucune chaîne trouvée",
+    "error": "Impossible de charger les chaînes",
+    "shareText": "Regardez {{name}} de {{country}} sur Carto TV!",
+    "linkCopied": "Lien copié!",
+    "linkCopiedDesc": "Le lien a été copié dans le presse-papiers.",
+    "addedToFavorites": "Ajouté aux favoris",
+    "removedFromFavorites": "Retiré des favoris",
+    "addFavorite": "Ajouter aux favoris",
+    "removeFavorite": "Retirer des favoris",
+    "share": "Partager la chaîne",
+    "play": "Lire la chaîne"
+  },
+  "about": {
+    "seo": {
+      "title": "Qui Sommes-Nous - Carto TV",
+      "description": "Découvrez la mission de Carto TV d'apporter la télévision mondiale gratuite à tous."
+    },
+    "title": "Qui Sommes-Nous",
+    "subtitle": "Apporter la télévision du monde à portée de main",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "Carto TV se consacre à fournir un accès gratuit aux chaînes de télévision en direct du monde entier. Notre interface de globe 3D interactif rend la découverte de contenu international une expérience engageante et immersive. Nous croyons que l'accès aux médias mondiaux devrait être gratuit et accessible à tous."
+    },
+    "offer": {
+      "title": "Ce Que Nous Offrons",
+      "items": {
+        "channels": "Plus de 10 000 chaînes TV gratuites de 179 pays",
+        "globe": "Navigation interactive avec globe satellite 3D en HD sur tout appareil.",
+        "content": "Diffusion en direct d'Actualités, Sports, Divertissement, Films dans des genres comme Action, Horreur, Sci-Fi, Crime, Comédie et bien plus",
+        "free": "Aucune inscription, aucun abonnement requis, jamais - entièrement gratuit.",
+        "adFree": "Expérience de visionnage sans publicité"
+      }
+    },
+    "team": {
+      "title": "Créé par Geo-Appsmith",
+      "builtBy": "CartoTV est fièrement développé par Geo-Appsmith, une société de conseil en services de localisation animée par une équipe dévouée de Développeurs et Ingénieurs SIG passionnés par la création d'outils, d'applications et de systèmes géospatiaux qui enchantent véritablement.",
+      "driven": "Nous sommes animés par la curiosité et l'innovation — repoussant constamment les limites et résolvant les problèmes de manière créative et non conventionnelle. Nous aimons comprendre comment les choses fonctionnent, poser les questions difficiles et concevoir des solutions intelligentes qui ont un impact réel.",
+      "commitment": "Au cœur de notre mission, nous sommes particulièrement engagés à développer des solutions géospatiales au service des communautés mal desservies dans le monde entier. Nous croyons que les cartes et l'intelligence géographique sont des outils puissants pour l'inclusion, l'accès et les opportunités.",
+      "collaborate": "Que vous ayez un projet de cartographie, un projet SIG, ou toute idée impliquant des cartes — grande ou petite — nous serions ravis de collaborer.",
+      "contact": "N'hésitez pas à nous contacter à hello@cartotv.com et explorons ensemble comment donner vie à votre vision."
+    }
+  },
+  "terms": {
+    "seo": {
+      "title": "Conditions d'Utilisation - Carto TV",
+      "description": "Lisez les conditions d'utilisation et politiques de Carto TV."
+    },
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour: Janvier 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptation des Conditions",
+        "text": "En accédant et en utilisant Carto TV (\"le Service\"), vous acceptez et vous engagez à respecter ces Conditions d'Utilisation. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser notre Service."
+      },
+      "description": {
+        "title": "2. Description du Service",
+        "text": "Carto TV fournit une plateforme gratuite pour accéder aux flux de télévision en direct disponibles publiquement du monde entier via une interface de globe 3D interactif."
+      },
+      "content": {
+        "title": "3. Avertissement sur le Contenu",
+        "text": "Tous les flux de télévision accessibles via Carto TV sont disponibles publiquement sur internet. Nous ne contrôlons pas, n'approuvons pas et n'assumons aucune responsabilité pour le contenu de ces flux."
+      },
+      "conduct": {
+        "title": "4. Conduite de l'Utilisateur",
+        "intro": "Vous acceptez de ne pas:",
+        "items": {
+          "unlawful": "Utiliser le Service à des fins illégales",
+          "interfere": "Tenter d'interférer avec ou de perturber le Service",
+          "reproduce": "Reproduire, dupliquer ou revendre toute partie du Service",
+          "automated": "Accéder au Service par des moyens automatisés ou des bots"
+        }
+      },
+      "ip": {
+        "title": "5. Propriété Intellectuelle",
+        "text": "L'interface, le design et le logo de Carto TV sont la propriété de Carto TV. Le contenu télévisuel appartient aux diffuseurs respectifs."
+      },
+      "liability": {
+        "title": "6. Limitation de Responsabilité",
+        "text": "Carto TV est fourni \"tel quel\" sans garantie d'aucune sorte."
+      },
+      "changes": {
+        "title": "7. Modifications des Conditions",
+        "text": "Nous nous réservons le droit de modifier ces Conditions à tout moment."
+      },
+      "contact": {
+        "title": "8. Contact",
+        "text": "Pour toute question concernant ces Conditions, veuillez nous contacter à"
+      }
+    }
+  },
+  "privacy": {
+    "seo": {
+      "title": "Politique de Confidentialité - Carto TV",
+      "description": "Découvrez comment Carto TV protège votre vie privée et gère les données."
+    },
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour: Janvier 2025",
+    "sections": {
+      "collect": {
+        "title": "1. Informations que Nous Collectons",
+        "intro": "Carto TV est conçu avec la confidentialité à l'esprit. Nous collectons des informations minimales:",
+        "usage": { "label": "Données d'Utilisation", "text": "Analyses anonymes sur la façon dont notre Service est utilisé" },
+        "localStorage": { "label": "Stockage Local", "text": "Vos favoris sont stockés localement dans votre navigateur" },
+        "technical": { "label": "Données Techniques", "text": "Journaux serveur standard à des fins de sécurité" }
+      },
+      "noAccount": {
+        "title": "2. Aucun Compte Requis",
+        "text": "Carto TV ne nécessite pas d'inscription. Nous ne collectons pas d'informations personnelles."
+      },
+      "cookies": {
+        "title": "3. Cookies et Suivi",
+        "intro": "Nous utilisons des cookies minimaux pour:",
+        "analytics": "Analyses anonymes (Google Analytics)",
+        "preferences": "Stocker vos préférences localement",
+        "disable": "Vous pouvez désactiver les cookies dans les paramètres de votre navigateur."
+      },
+      "thirdParty": {
+        "title": "4. Services Tiers",
+        "intro": "Notre Service utilise des services tiers:",
+        "google": { "label": "Google Analytics", "text": "Pour des statistiques d'utilisation anonymes" },
+        "coffee": { "label": "Buy Me a Coffee", "text": "Pour les dons volontaires" },
+        "streams": { "label": "Fournisseurs de Flux", "text": "Les flux externes peuvent avoir leur propre suivi" }
+      },
+      "security": {
+        "title": "5. Sécurité des Données",
+        "text": "Nous mettons en œuvre des mesures de sécurité raisonnables pour protéger toutes les données que nous collectons."
+      },
+      "children": {
+        "title": "6. Confidentialité des Enfants",
+        "text": "Notre Service n'est pas destiné aux enfants de moins de 13 ans."
+      },
+      "rights": {
+        "title": "7. Vos Droits",
+        "text": "Puisque nous collectons des données minimales, il n'y a généralement pas de données personnelles à accéder ou supprimer."
+      },
+      "changes": {
+        "title": "8. Modifications de la Politique",
+        "text": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps."
+      },
+      "contact": {
+        "title": "9. Nous Contacter",
+        "text": "Pour toute question concernant cette Politique de Confidentialité, veuillez nous contacter à"
+      }
+    }
+  },
+  "crawler": {
+    "home": {
+      "streamingTitle": "Télévision en Direct Gratuite",
+      "streamingText": "Carto TV offre un accès gratuit à plus de 10 000 chaînes de télévision en direct de 179 pays. Parcourez les chaînes grâce à notre globe 3D interactif. Regardez Actualités, Sports, Divertissement, Films, Musique, Contenu pour Enfants et Documentaires — sans inscription ni abonnement.",
+      "categoriesTitle": "Catégories Disponibles",
+      "news": "Chaînes d'Actualités en Direct",
+      "sports": "Streaming Sportif",
+      "entertainment": "Divertissement et Films",
+      "kids": "Enfants et Famille",
+      "music": "Chaînes Musicales",
+      "documentary": "Chaînes Documentaires"
+    },
+    "about": {
+      "missionText": "Carto TV se consacre à offrir un accès gratuit à la télévision en direct du monde entier. Notre globe 3D innovant vous permet d'explorer et de regarder des chaînes TV de 179 pays sans inscription."
+    },
+    "terms": {
+      "text": "Ces conditions régissent votre utilisation de la plateforme de streaming TV gratuite Carto TV. En utilisant notre service, vous acceptez ces conditions."
+    },
+    "privacy": {
+      "text": "Carto TV s'engage à protéger votre vie privée. Nous collectons un minimum de données et ne demandons aucune inscription. Découvrez notre politique de cookies, nos pratiques de protection des données et vos droits."
+    },
+    "nav": {
+      "about": "À propos de Carto TV",
+      "terms": "Conditions d'Utilisation",
+      "privacy": "Politique de Confidentialité",
+      "home": "Accueil",
+      "backToGlobe": "Retour au Globe"
+    }
+  },
+  "countryPage": {
+    "watchLiveTV": "Regarder la TV en Direct par Pays",
+    "selectCountry": "Sélectionnez un pays pour parcourir les chaînes",
+    "searchCountries": "Rechercher des pays...",
+    "countryNotFound": "Pays non trouvé",
+    "browseAll": "Parcourir tous les pays",
+    "channelCount": "{{filtered}} / {{total}} chaînes",
+    "watchTitle": "Regarder les Chaînes TV de {{country}} Gratuitement en Ligne",
+    "watchDescription": "Regardez la télévision en direct de {{country}} gratuitement sur Carto TV. Parcourez les chaînes d'actualités, de sports, de divertissement et plus — sans inscription ni abonnement. Choisissez simplement une chaîne et commencez à regarder instantanément.",
+    "howToWatch": "Comment Regarder la TV de {{country}} en Ligne",
+    "howToWatchText": "Sélectionnez n'importe quelle chaîne dans la liste ci-dessus et cliquez sur lecture. Tous les flux sont gratuits et accessibles dans le monde entier. Utilisez la barre de recherche pour trouver des chaînes spécifiques ou filtrez par catégorie."
+  }
+}
