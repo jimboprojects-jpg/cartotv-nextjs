@@ -1,0 +1,44 @@
+# Robots.txt for CartoTV - Global Live TV Streaming
+# https://cartotv.com
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Default rule for all other bots
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Disallow non-public paths
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://cartotv.com/sitemap-index.xml
+
+# Host directive (for Yandex and some other crawlers)
+Host: https://cartotv.com
