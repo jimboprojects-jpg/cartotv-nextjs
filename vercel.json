@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run fetch-channels && npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": "nextjs",
+  "functions": { "src/app/**": { "maxDuration": 30 } }
+}
